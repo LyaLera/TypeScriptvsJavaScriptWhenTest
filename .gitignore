@@ -9,6 +9,7 @@ lerna-debug.log*
 
 .env
 .env.local
+build-dont-touch.js
 
 node_modules
 dist
