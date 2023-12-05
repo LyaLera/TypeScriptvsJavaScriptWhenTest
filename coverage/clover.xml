@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1701727180742" clover="3.2.0">
+  <project timestamp="1701727180742" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7" elements="39" coveredelements="39" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="/Users/Lera/Desktop/GitRepo/Testing/unit-tests/index.js">
+      <metrics statements="20" coveredstatements="20" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7"/>
+      <line num="5" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="15" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="39" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="41" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="50" count="5" type="stmt"/>
+      <line num="51" count="30" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
