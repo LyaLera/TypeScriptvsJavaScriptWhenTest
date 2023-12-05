@@ -5,7 +5,7 @@ const {
   addNumberToObject,
   numberIsEqualOrMoreThanOne,
   getEachFirstItem,
-} = require("./index");
+} = require("./functions-in-javascript.js");
 
 
 describe("multiply", () => {

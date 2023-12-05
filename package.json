@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test-js": "jest javascript-tests.test.js",
+    "test-ts":"tsc functions-in-typescript.ts --outfile build-dont-touch.js && jest typescript-tests.test.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "typescript": "^5.3.2"
   }
 }

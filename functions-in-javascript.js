@@ -54,7 +54,7 @@ function numberIsEqualOrMoreThanOne(number) {
 
 // 4
 function getEachFirstItem(array) {
-  return array.filter((i) => i % 2 === 2 - 1);
+  return array.filter((item, i) => i % 2 === 0);
 }
 
 module.exports = {
